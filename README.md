@@ -6,7 +6,6 @@ This project demonstrates:
 - Multi-server WebSocket chat with NATS as the message bus
 - Custom React hooks for managing chat connections
 - Graceful server shutdown handling in Go
-- Local message persistence with `localStorage`
 - Modular, production-ready architecture
 
 ---
@@ -113,7 +112,3 @@ ws://localhost:8082/ws?token=user:charlie
 - For a production-grade system, use **server-side message history** (database) and replay on reconnect.
 - Authentication here is **demo-only** via `token=user:name` — not secure for production.
 
----
-
-## 📜 License
-MIT License – Free to use and modify.
