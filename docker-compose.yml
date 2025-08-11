@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  nats:
+    image: nats:2.10
+    ports:
+      - "4222:4222" # client connections
+      - "8222:8222" # monitoring UI
+    command: [
+      "-js", # enable JetStream
+      "--server_name", "nats-dev"
+    ]
+
+  scylla:
+    image: scylladb/scylla:5.2
+    ports:
+      - "9042:9042"
+    command: ["--smp", "1", "--memory", "750M"]
+
