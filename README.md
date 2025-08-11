@@ -11,11 +11,7 @@ This project demonstrates:
 ---
 
 ## 📺 Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-> Click the image to watch the demo on YouTube.  
-> _(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)_
-
+[![Watch the demo]https://raw.githubusercontent.com/MobasirSarkar/chatservice/blob/main/video/demo.mkv
 ---
 
 ## 🛠 Tech Stack
