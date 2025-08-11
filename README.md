@@ -11,7 +11,11 @@ This project demonstrates:
 ---
 
 ## 📺 Demo Video
-[![Watch the demo]https://raw.githubusercontent.com/MobasirSarkar/chatservice/blob/main/video/demo.mkv
+[![Watch the demo]
+<p align="center">
+    <video src="https://github.com/MobasirSarkar/chatservice/tree/main/video/demo.mp4" width="500px"></video>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
@@ -107,4 +111,5 @@ ws://localhost:8082/ws?token=user:charlie
 ## 💡 Notes
 - For a production-grade system, use **server-side message history** (database) and replay on reconnect.
 - Authentication here is **demo-only** via `token=user:name` — not secure for production.
+
 
