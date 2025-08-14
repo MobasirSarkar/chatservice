@@ -11,11 +11,7 @@ This project demonstrates:
 ---
 
 ## 📺 Demo Video
-[![Watch the demo]
 https://github.com/user-attachments/assets/0b874bba-29f1-4808-bfe1-59a024781436
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
