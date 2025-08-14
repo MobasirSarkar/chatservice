@@ -12,9 +12,7 @@ This project demonstrates:
 
 ## 📺 Demo Video
 [![Watch the demo]
-<p align="center">
-    <video src="https://github.com/MobasirSarkar/chatservice/tree/main/video/demo.mp4" width="500px"></video>
-</p>
+https://github.com/user-attachments/assets/0b874bba-29f1-4808-bfe1-59a024781436
 
 ---
 
